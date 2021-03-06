@@ -12,6 +12,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Aum Namo Narayanaya !" );
          System.out.println( "Aum Namo Bhagawathe Vasudevaya !" );
+         System.out.println( "Aum Shanthi Shathi Shathi Hi !" );
         
     }
 }
